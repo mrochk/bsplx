@@ -3,7 +3,7 @@ name = "bsplx"
 version = "0.1.0"
 description = "A simple B-splines implementation in (JIT-compatible) Jax."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "beartype>=0.22.9",
     "jax>=0.10.0",
