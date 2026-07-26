@@ -1,6 +1,6 @@
 [project]
 name = "bsplx"
-version = "0.1.1"
+version = "0.2.0"
 description = "A minimal B-spline implementation in (JIT-compatible) Jax."
 readme = "README.md"
 requires-python = ">=3.12"
